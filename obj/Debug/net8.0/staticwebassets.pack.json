@@ -1,0 +1,593 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Demo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Demo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\css\\default.css",
+      "PackagePath": "staticwebassets\\css\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\css\\etalage.css",
+      "PackagePath": "staticwebassets\\css\\etalage.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\css\\form.css",
+      "PackagePath": "staticwebassets\\css\\form.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\css\\fwslider.css",
+      "PackagePath": "staticwebassets\\css\\fwslider.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\css\\megamenu.css",
+      "PackagePath": "staticwebassets\\css\\megamenu.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\css\\nivo-slider.css",
+      "PackagePath": "staticwebassets\\css\\nivo-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\css\\zoome-min.css",
+      "PackagePath": "staticwebassets\\css\\zoome-min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\a-img.jpg",
+      "PackagePath": "staticwebassets\\images\\a-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\a-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\a-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\a-img2.jpg",
+      "PackagePath": "staticwebassets\\images\\a-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\arrow1.png",
+      "PackagePath": "staticwebassets\\images\\arrow1.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\arrow2.gif",
+      "PackagePath": "staticwebassets\\images\\arrow2.gif"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\arrows.png",
+      "PackagePath": "staticwebassets\\images\\arrows.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\b-arrow.png",
+      "PackagePath": "staticwebassets\\images\\b-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\cart.png",
+      "PackagePath": "staticwebassets\\images\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\cart.psd",
+      "PackagePath": "staticwebassets\\images\\cart.psd"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\cart2.png",
+      "PackagePath": "staticwebassets\\images\\cart2.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\cart2.psd",
+      "PackagePath": "staticwebassets\\images\\cart2.psd"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\cart3.png",
+      "PackagePath": "staticwebassets\\images\\cart3.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\down-arrow.png",
+      "PackagePath": "staticwebassets\\images\\down-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\f-icon.png",
+      "PackagePath": "staticwebassets\\images\\f-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\f-tw.png",
+      "PackagePath": "staticwebassets\\images\\f-tw.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\header_arrow.png",
+      "PackagePath": "staticwebassets\\images\\header_arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\img-sprite.png",
+      "PackagePath": "staticwebassets\\images\\img-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\left-banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\left-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\list_marker.png",
+      "PackagePath": "staticwebassets\\images\\list_marker.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\logo.psd",
+      "PackagePath": "staticwebassets\\images\\logo.psd"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\magnify-alt.png",
+      "PackagePath": "staticwebassets\\images\\magnify-alt.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\minus.gif",
+      "PackagePath": "staticwebassets\\images\\minus.gif"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\pic.jpg",
+      "PackagePath": "staticwebassets\\images\\pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\pic5.jpg",
+      "PackagePath": "staticwebassets\\images\\pic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\pic6.jpg",
+      "PackagePath": "staticwebassets\\images\\pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\pic7.jpg",
+      "PackagePath": "staticwebassets\\images\\pic7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\pic8.jpg",
+      "PackagePath": "staticwebassets\\images\\pic8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\plus.gif",
+      "PackagePath": "staticwebassets\\images\\plus.gif"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\quotes.png",
+      "PackagePath": "staticwebassets\\images\\quotes.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\s-img.jpg",
+      "PackagePath": "staticwebassets\\images\\s-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\s-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\s-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\s-img2.jpg",
+      "PackagePath": "staticwebassets\\images\\s-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\s-img3.jpg",
+      "PackagePath": "staticwebassets\\images\\s-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\s1.jpg",
+      "PackagePath": "staticwebassets\\images\\s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\s2.jpg",
+      "PackagePath": "staticwebassets\\images\\s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\s3.jpg",
+      "PackagePath": "staticwebassets\\images\\s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\s4.jpg",
+      "PackagePath": "staticwebassets\\images\\s4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\s5.jpg",
+      "PackagePath": "staticwebassets\\images\\s5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\s6.jpg",
+      "PackagePath": "staticwebassets\\images\\s6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\s7.jpg",
+      "PackagePath": "staticwebassets\\images\\s7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\s8.jpg",
+      "PackagePath": "staticwebassets\\images\\s8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\s9.jpg",
+      "PackagePath": "staticwebassets\\images\\s9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\search.png",
+      "PackagePath": "staticwebassets\\images\\search.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\t-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\t-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\t-img2.jpg",
+      "PackagePath": "staticwebassets\\images\\t-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\t-img3.jpg",
+      "PackagePath": "staticwebassets\\images\\t-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\tag.png",
+      "PackagePath": "staticwebassets\\images\\tag.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\images\\zoom.png",
+      "PackagePath": "staticwebassets\\images\\zoom.png"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\js\\css3-mediaqueries.js",
+      "PackagePath": "staticwebassets\\js\\css3-mediaqueries.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\js\\fwslider.js",
+      "PackagePath": "staticwebassets\\js\\fwslider.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\js\\jquery.easydropdown.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easydropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\js\\jquery.etalage.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.etalage.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\js\\jquery.flexisel.js",
+      "PackagePath": "staticwebassets\\js\\jquery.flexisel.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\js\\jquery.jscrollpane.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.jscrollpane.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\js\\jquery.nivo.slider.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nivo.slider.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\js\\jquery1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\js\\megamenu.js",
+      "PackagePath": "staticwebassets\\js\\megamenu.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\js\\slides.min.jquery.js",
+      "PackagePath": "staticwebassets\\js\\slides.min.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\js\\zoome-e.js",
+      "PackagePath": "staticwebassets\\js\\zoome-e.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoangkha\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Demo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Demo.props",
+      "PackagePath": "build\\Demo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Demo.props",
+      "PackagePath": "buildMultiTargeting\\Demo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Demo.props",
+      "PackagePath": "buildTransitive\\Demo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
