@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - DoAnGroup3</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/DoAnGroup3.styles.css" asp-append-version="true" />
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        .header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+        }
+
+            .header h1 {
+                margin: 0;
+            }
+
+        .container {
+            display: flex;
+        }
+
+        .sidebar {
+            background-color: #f2f2f2;
+            padding: 20px;
+            width: 200px;
+        }
+
+            .sidebar ul {
+                list-style-type: none;
+                padding: 0;
+                margin: 0;
+            }
+
+            .sidebar li {
+                margin-bottom: 10px;
+            }
+
+            .sidebar a {
+                display: block;
+                padding: 10px;
+                text-decoration: none;
+                color: #333;
+                border-radius: 5px;
+                transition: background-color 0.3s ease;
+            }
+
+                .sidebar a:hover {
+                    background-color: #ddd;
+                }
+
+                .sidebar a.active {
+                    background-color: #555;
+                    color: #fff;
+                }
+
+        .content {
+            flex: 1;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Quản lí bán hàng tại siêu thị</h1>
+    </div>
+    <div class="container">
+        <div class="sidebar">
+            <ul>
+                <li><a asp-area="" asp-controller="Categories" asp-action="Index">Danh mục sản phẩm</a></li>
+                <li><a asp-area="" asp-controller="Products" asp-action="Index">sản phẩm</a></li>
+                <li><a asp-area="" asp-controller="DonDHs" asp-action="Index">Bán hàng</a></li>
+                <li><a asp-area="" asp-controller="DonDHs" asp-action="Count">Xuất kho bán hàng</a></li>
+                <li><a asp-area="" asp-controller="PhieuNHs" asp-action="Index">Nhập hàng</a></li>
+                <li><a asp-area="" asp-controller="Users" asp-action="Index">Nhân viên</a></li
+                <li><a asp-area="" asp-controller="DonDHs" asp-action="CalculateRevenueByDay">Báo cáo Danh thu</a></li>
+            </ul>
+        </div>
+        <div class="content">
+            <!-- Nội dung trang web -->
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+    </div>
+    <div class="container">
+        
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - DoAnGroup3 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
